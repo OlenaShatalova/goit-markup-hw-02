@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-First homework in GoIT
+First homework GoIT
