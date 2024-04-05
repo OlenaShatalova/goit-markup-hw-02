@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
+  line-height: 1.5;
+}
+
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
