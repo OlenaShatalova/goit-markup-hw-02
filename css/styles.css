@@ -48,7 +48,8 @@ a {
   letter-spacing: 0.02em;
 }
 
-.address_link:hover {
+.address_link:hover,
+.address_link:focus {
   color: #404bbf;
 }
 
@@ -89,7 +90,7 @@ a {
   letter-spacing: 0.02em;
 }
 
-.benefit_section_title {
+.benefits_section_title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -102,6 +103,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .team_section {
@@ -115,6 +117,7 @@ a {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .team_section_list_item {
@@ -129,14 +132,14 @@ a {
   letter-spacing: 0.02em;
 }
 
-.team-section_text {
+.team_section_text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
   letter-spacing: 0.02em;
 }
-.portfolio-section_title {
+.portfolio_section_title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -144,18 +147,19 @@ a {
   letter-spacing: 0.02em;
 }
 
-.portfolio-section_text {
+.portfolio_section_text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .footer {
   background-color: #2e2f42;
 }
 
-.span-footer {
+.span_footer {
   color: #f4f4fd;
 }
 
